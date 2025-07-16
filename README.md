@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JohnTheFullStackDeveloper
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning AndroidStudio
+- 🌱 I’m currently developing Tastik
 - ⚡ Fun fact: I Am A Programmer
 
 <!---
