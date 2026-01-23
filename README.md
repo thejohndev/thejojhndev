@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JohnTheFullStackDeveloper
+- 👋 Hi, I’m @thejohndev
 - 👀 I’m interested in Coding
 - 🌱 I’m currently developing Tastik
 - ⚡ Fun fact: I Am A Programmer
